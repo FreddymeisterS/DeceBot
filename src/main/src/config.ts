@@ -91,7 +91,7 @@ const defaultConfig: Partial<Config> = {
   sayTimeout: 10000,
   saySpacing: 1000,
   announceText: 'SUP WORLD!',
-  userGreeting: ['Hey, @$user! Welcome to the stream!', 'A wild @$user appears!', 'Hey, @$user... You come here often? 😏']
+  userGreeting: ['Hey, @$user! Welcome to the stream!', 'A wild @$user appears!', 'Hey, @$user... You come here often? 😏', 'Did you ever hear the tradegy of @$user The Wise',]
 };
 
 let configFile: ConfigFile;
